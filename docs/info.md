@@ -19,4 +19,5 @@ Explain how to use your project: To test the MOSFET you can switch on and off sw
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any (UNSURE)
+List external hardware used in your project (e.g. PMOD, LED display, etc), if any 
+(UNSURE) but the Logics "NAND Gate" and the "Not Gate" been used to create my initial of my last name
