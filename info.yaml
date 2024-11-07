@@ -4,7 +4,7 @@ project:
   title:        "YoshiTP"      # Project title
   author:       "Yeshua M (Yoshi)"      # Your name
   discord:      "yoshi.1.2.3"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Tiny Tapeout Microchip"      # One line description of what your project does
+  description:  "Tiny Tapeout Microchip creates the letter M if flipped horizontally"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
