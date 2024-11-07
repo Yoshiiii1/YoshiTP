@@ -19,4 +19,4 @@ Explain how to use your project: To test the MOSFET you can switch on and off sw
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external hardware used in your project (e.g. PMOD, LED display, etc), if any (UNSURE)
